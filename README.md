@@ -1,12 +1,12 @@
 # Solitary Bee Housing
-Congratulations on your new solitary bee house!  This page will have instructions for 
-* Mounting your bee houses
-* Overwintering the pupae
-Brought to you by [Make Salt Lake](https://www.makesaltlake.org)
-_this page is being updated now (3:30 friday 23rd), check back later for improved mounting and wintering instructions and more bee pictures!_
+Congratulations on your new solitary bee house!  This page will be updated with information about these bees and how to care for them.
+
+_Brought to you by [Make Salt Lake](https://www.makesaltlake.org)_
+
+_this page last being updated (4:45 friday june 23rd), check back later for improved mounting and wintering instructions and more bee pictures!_
 
 ## What are solitary bees?
-There are thousands of bee species in the world and dozens in the Wasatch Front alone; these bees do not build large colony hives like the European Honeybee (_apis melifera_) but instead create small nests in existing holes, each containing a small number of offspring.  These nests are capped off and pupate overwinter, emerging in the spring to begin the cycle anew.  The housing we create here provide nesting sites for these bees, who are critical pollenators of native and introduced plant species.
+There are thousands of bee species in the world and dozens in the Wasatch Front alone; these bees do not build large colony hives like the European Honeybee (_apis melifera_) but instead have a number of nesting strategies, including digging into the ground, chewing through wood, or occupying existing small holes.  The latter are known as cavity nesting bees.  The mothers will create nests in small holes they find, each containing a small number of offspring.  These nests are capped off and pupate overwinter, emerging in the spring to begin the cycle anew.  The housing we create here provide nesting sites for these bees, who are critical pollenators of native and introduced plant species.
 
 Many of these bees do not sting humans, or will only sting if actively harassed (and those that do sting are a mere pinch, a fraction of a honeybee's sting).
 
@@ -26,11 +26,16 @@ When the bees choose the nesting site, they will create a series of small cells 
 [Mason bee cells](docs/mason_bee_cells.jpg)
 [Capped off leafcutter nests](docs/capped_leafcutter_nests.jpg)
 
-### Wintering Bees
+### Wintering Your Bees
 While you can leave the bee houses where they are, their dense population and environmental exposure may make them vulnerable to predators and disease.  You may take some steps to preserve the cocoons and prepare them for spring, gaining some fun insight into the reproductive cycle in the process.
 
-When the straws are capped off at the end of summer, you can remove the houses and store them somewhere dry and cool for the winter as they lay dormant, such as a corner of a shed, or even placing the straws in a breathable container in your fridge.  When the weather becomes warm again, they will begin the process of developing. -insert strategies for this here-
+When the straws are capped off at the end of summer, you can remove the houses and store them somewhere dry and cool for the winter as they lay dormant, such as a corner of a shed, or even placing the straws in a breathable container in your fridge.  When the weather becomes warm again, they will begin the process of developing.
+-insert strategies for this here-
 
 
 ## More resources
 [USU Native Bee Guide](https://extension.usu.edu/pests/research/beginners-guide-to-common-native-bees)
+
+## Share your bee house stories!
+Send us pictures of your bee houses in use!  We will gather information about the success of these bee houses to improve on our design and share pictures of the bees.
+<email to be added here> 
