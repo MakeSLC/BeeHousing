@@ -1,5 +1,7 @@
 # BeeHousing
-Data for MakeSLC Bee Housing project
+Congratulations on your new solitary bee house!
+
+this page is being updated now (3:30 friday 23rd), check back later for improved mounting and wintering instructions and more bee pictures!
 
 1. Ensure the tube has a backing
 2. Stuff the straws so that they touch the back and do not come out further than the tube
